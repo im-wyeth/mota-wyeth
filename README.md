@@ -3,7 +3,7 @@
 
 Currently i use the following technologies: 
 
-+ JS, TypeScript, PHP
++ JS💛, TypeScript💙, PHP💜
 + Vue, Vuex, Nuxt
 + pixi.js, electron.js
 + Node.js, Express, Socket.io
