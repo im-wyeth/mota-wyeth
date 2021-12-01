@@ -1,7 +1,8 @@
 # Hi there 👋
-> I'm a full stack developer and a bit of a designer 🌚
 
-Currently i use the following technologies: 
+## I'm a full stack developer and a bit of a designer 🌚
+
+Currently i use the following technologies  👇
 
 + JS / TypeScript / PHP
 + Vue / Vuex / Nuxt
@@ -9,4 +10,4 @@ Currently i use the following technologies:
 + Node.js / Express / Socket.io
 + Scss / Less
 
-😉
+Do it nicely 😉
