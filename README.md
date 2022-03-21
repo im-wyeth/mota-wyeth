@@ -1,7 +1,6 @@
 ### Hi there👋 
 
 <p>I'm Khas-Magomed and i create: Games, Websites, 2d arts, 3d models & UIxUX designs</p>
-<p>📫 Reach me <a href="https://www.instagram.com/jrr_mota/">@jrr_mota</a></p>
 
 ### Stats
 <div align="center">
