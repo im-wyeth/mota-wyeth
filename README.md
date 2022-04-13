@@ -1,6 +1,6 @@
 ### Hi there👋 
 
-<p>I'm Khas-Magomed and i create: Games, Websites, 2d arts, 3d models & UIxUX designs</p>
+<p>My name is Khas-Magomed and i create: games, websites, 2d arts, graphic designs )</p>
 
 ### Stats
 <div align="center">
